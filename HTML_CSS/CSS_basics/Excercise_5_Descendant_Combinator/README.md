@@ -10,7 +10,7 @@ The properties you need to add are:
 * Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
 
 ## Desired Outcome
-![desired outcome](./desired-outcome (1).png)
+![desired outcome](./desired-outcome.png)
 
 
 ### Self Check

@@ -1,6 +1,5 @@
 # Margin and Padding #2
 
-##Desired outcome
 
 ## Desired outcome
 ![desired outcome](./desired-outcome.png)
